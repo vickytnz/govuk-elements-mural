@@ -2,6 +2,7 @@
 
 Inspired by the Google Drawings GOV.UK elements, this is a port to do wireframing using Mural.
 
+<img width="961" alt="Screenshot of template for using GOVUK Mural wireframes" src="https://user-images.githubusercontent.com/1223264/101213372-30ede200-3672-11eb-8735-68f1691245ef.png">
 
 
 ## How to use
