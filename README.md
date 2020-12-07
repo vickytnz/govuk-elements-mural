@@ -7,7 +7,7 @@ Inspired by the Google Drawings GOV.UK elements, this is a port to do wireframin
 
 ## How to use
 
-1. Go to https://app.mural.co/t/vickyteinaki5903/template/ea7d7832-8b3f-4b39-a8de-ed75621df4ce 
+1. Go to https://app.mural.co/t/camnomis9179/template/a12167ca-acf9-42ca-880e-92d0777d178a
 1. Select "Create Mural from Template". The template will be added to your workspace as a board
 1. Copy and paste elements from the board to create journeys.
 1. (optional) Save the board as your own template. Or create snippets to use in your content library.
@@ -16,6 +16,6 @@ Inspired by the Google Drawings GOV.UK elements, this is a port to do wireframin
 Raise issues on this this Github or on Twitter at [@vickytnz](https://twitter.com/vickytnz)
 
 ## Release notes
-v1.0 by Vicky Teinaki on 4 December 2020. 
+v1.0 by Vicky Teinaki on 4 December 2020. Hosted thanks to Simon McCartney of <a href="https://twitter.com/camnomis">Cammmonis</a> for hosting the template.
 Creative Commons Licence https://creativecommons.org/licenses/by-nc/4.0/ 
 
