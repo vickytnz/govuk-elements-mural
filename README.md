@@ -16,6 +16,6 @@ Inspired by the Google Drawings GOV.UK elements, this is a port to do wireframin
 Raise issues on this this Github or on Twitter at [@vickytnz](https://twitter.com/vickytnz)
 
 ## Release notes
-v1.0 by Vicky Teinaki on 7 December 2020. Hosted by <a href="https://twitter.com/camnomis">Cammmonis</a> (thanks, Simon!).
+v1.0 by Vicky Teinaki on 7 December 2020. Hosted by <a href="https://twitter.com/camnomis">Camnomis</a> (thanks, Simon!).
 Creative Commons Licence https://creativecommons.org/licenses/by-nc/4.0/ 
 
