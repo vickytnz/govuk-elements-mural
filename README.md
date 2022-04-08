@@ -19,6 +19,7 @@ Raise issues on this this Github or on Twitter at [@vickytnz](https://twitter.co
 
 ## Release notes
 v1.1 by Vicky Teinaki on 8 April 2022 - added cookie banner and notifications pattern. Also amended address pattern following design system update.
+
 v1.0 by Vicky Teinaki on 7 December 2020. Hosted by <a href="https://twitter.com/camnomis">Camnomis</a> (thanks, Simon!).
 Creative Commons Licence https://creativecommons.org/licenses/by-nc/4.0/ 
 
